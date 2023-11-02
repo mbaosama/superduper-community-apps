@@ -4,6 +4,8 @@ This Semantic Search Engine was built for the purpose of
 - Using Superduperdb to build a more realistic business use case of vector database using MongoDB as the backend 
 - Comparing the different between a basic Semantic search engine and a simple Full-Text Search Engine
 
+**Data source: The data used can be found on kaggle [here](https://www.kaggle.com/datasets/thedevastator/adidas-fashion-retail-products-dataset-9300-prod)**
+
 ### Here is the infracstructure diagram
 ![image](images/infra.png)
 
