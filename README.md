@@ -46,3 +46,5 @@ This repo contains a collection of SuperDuperDB use-cases ranging notebook demo 
     **Technologies used:** MongoDB, OpenAI, SuperDuperDB, Streamlit
 
     **Things to note when running:** Find how to kickstart in the Readme [here](https://github.com/SuperDuperDB/examples/blob/main/contrib/ecommerce_semantic_search_app/README.md)
+
+For more info about SuperDuperDB framework and its awesome functionality, check the main open-source repo [here](https://bit.ly/sdexamples)
