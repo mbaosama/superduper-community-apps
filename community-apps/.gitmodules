@@ -1,0 +1,6 @@
+[submodule "neural-search/front-end"]
+	path = neural-search/front-end
+	url = https://github.com/duarteocarmo/thechangelogbot-frontend.git
+[submodule "neural-search/back-end"]
+	path = neural-search/back-end
+	url = https://github.com/duarteocarmo/thechangelogbot-backend.git
