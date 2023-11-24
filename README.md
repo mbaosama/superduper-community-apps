@@ -44,7 +44,7 @@ Welcome to the SuperDuperDB Examples repository! Here, you'll find a collection 
 ## Use-Cases
 
 ### 1. Movie Sentiment Analysis of IMDB Reviews
-- **Demo Notebook:** [Movie Sentiment Analysis](https://github.com/SuperDuperDB/examples/blob/main/contrib/sentiment_analysis_use_case.ipynb)
+- **Demo Notebook:** [Movie Sentiment Analysis](https://github.com/SuperDuperDB/examples/blob/main/community-notebooks/sentiment_analysis_use_case.ipynb)
 - **Technologies used:** MongoDB, HuggingFace, SuperDuperDB
 - **Note:** Ensure you have the required libraries installed by running:
   
@@ -53,7 +53,7 @@ Welcome to the SuperDuperDB Examples repository! Here, you'll find a collection 
   ```
 
 ### 2. Transcribing, Vector Searching & Asking Questions based on Audio Recordings
-- **Demo Notebook:** [Voice Memos](https://github.com/SuperDuperDB/examples/blob/main/contrib/voice_memos.ipynb)
+- **Demo Notebook:** [Voice Memos](https://github.com/SuperDuperDB/examples/blob/main/official-notebooks/voice_memos.ipynb)
 - **Technologies used:** MongoDB, OpenAI, SuperDuperDB, Facebook Transformers
 - **Note:** Install necessary libraries before running:
   
@@ -64,7 +64,7 @@ Welcome to the SuperDuperDB Examples repository! Here, you'll find a collection 
   ```
 
 ### 3. Preprocessing and Storing Image Features in the Database
-- **Demo Notebook:** [ResNet Features](https://github.com/SuperDuperDB/examples/blob/main/contrib/resnet_features.ipynb)
+- **Demo Notebook:** [ResNet Features](https://github.com/SuperDuperDB/examples/blob/main/community-notebooks/resnet_features.ipynb)
 - **Technologies used:** MongoDB, SuperDuperDB, torchvision
 - **Note:** Uncomment the code in cell 2 to download required data:
   
@@ -73,7 +73,7 @@ Welcome to the SuperDuperDB Examples repository! Here, you'll find a collection 
   ```
 
 ### 4. Chunking Large Documents and Vector Searching for Substrings
-- **Demo Notebook:** [Chunked Vector Search](https://github.com/SuperDuperDB/examples/blob/main/contrib/chunked_vector_search.ipynb)
+- **Demo Notebook:** [Chunked Vector Search](https://github.com/SuperDuperDB/examples/blob/main/community-notebooks/chunked_vector_search.ipynb)
 - **Technologies used:** MongoDB, OpenAI, SuperDuperDB
 - **Note:** Add your OpenAI API key in cell 1:
   
@@ -82,18 +82,18 @@ Welcome to the SuperDuperDB Examples repository! Here, you'll find a collection 
   ```
 
 ### 5. E-commerce Search Engine Web App
-- **Demo App:** [E-commerce Semantic Search App](https://github.com/SuperDuperDB/examples/tree/main/contrib/ecommerce_semantic_search_app)
+- **Demo App:** [E-commerce Semantic Search App](https://github.com/SuperDuperDB/examples/tree/main/community-apps/ecommerce_semantic_search_app)
 - **Technologies used:** MongoDB, OpenAI, SuperDuperDB, Streamlit
-- **Note:** Follow the instructions in the [Readme](https://github.com/SuperDuperDB/examples/blob/main/contrib/ecommerce_semantic_search_app/README.md) to kickstart the app.
+- **Note:** Follow the instructions in the [Readme](https://github.com/SuperDuperDB/examples/blob/main/community-apps/ecommerce_semantic_search_app/README.md) to kickstart the app.
 
 
 # Contributing
 
-There many ways to contribute, and they are not limited to creating community apps for us. We welcome all contributions. Read our [contributing](https://github.com/SuperDuperDB/superduper-community-apps/blob/main/CODE_OF_CONDUCT.md) guideline.
+There many ways to contribute, and they are not limited to creating community apps for us. We welcome all contributions. Read our [contributing](https://github.com/SuperDuperDB/examples/blob/main/CODE_OF_CONDUCT.md) guideline.
 
 # Code of Conduct
 
-This repository is part of the SuperDuperDB, thus the SuperDuperDB [Code of Conduct](https://github.com/SuperDuperDB/superduper-community-apps/blob/main/CONTRIBUTING.md) applies.
+This repository is part of the SuperDuperDB, thus the SuperDuperDB [Code of Conduct](https://github.com/SuperDuperDB/examples/blob/main/CONTRIBUTING.md) applies.
 
 # License
 
