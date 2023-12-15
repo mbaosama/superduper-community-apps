@@ -56,6 +56,18 @@ This Semantic Search Engine was developed with the following objectives:
 - **Vector Search Functionality:** SuperduperDB
 - **Frontend:** Streamlit
 
+### [Building a Customer Deduplication Architecture](https://github.com/SuperDuperDB/superduper-community-apps/tree/main/apps/customer_deduplication)
+
+This Customer Deduplication Architecture was developed with the following objectives:
+- Leveraging Superduperdb to create a vector search functionality to narrow down potential customer detail matches
+- Using Recordlinkage to reduce the false positive matches from the search
+
+**Basic Components Used:**
+- **Backend:** MongoDB
+- **Embedding:** HuggingFace
+- **Vector Search Functionality:** SuperduperDB
+- **Entity Resolution:** RecordLinkage
+- **Frontend:** Streamlit
 
 ### [Implementing Chunked Vector Search with Multiple Inputs per Document](https://github.com/SuperDuperDB/superduper-community-apps/blob/main/notebooks/chunked_vector_search.ipynb)
 
